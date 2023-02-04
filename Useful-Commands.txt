@@ -1,0 +1,16 @@
+In this page i written various commands to install external packages for ReactJS Application.
+
+1)To install bootstrap V4
+  npm i bootstrap@4.3.1
+
+2)To install axios
+  npm install axios
+
+3)To install sweetalert 
+  npm i sweetalert
+
+4)To install react-router-dom-v6
+  npm install react-router-dom@6
+
+5)To install Sass
+  npm install sass --save-dev
